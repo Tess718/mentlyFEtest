@@ -25,7 +25,7 @@ export const sidebarLinks = [
       categoryTextColor: "#0077FF",
       description:
         "This program is a hands-on guide designed for designers who want to master color theory and confidently apply it to their designs. This practical approach",
-      avatars: "/images/Participants Avatars.png",
+      avatars: "/images/Participant Avatars.png",
     },
   ];
 
@@ -69,7 +69,7 @@ export const sidebarLinks = [
       groupImage: "/images/b11c58bc810aaca8b4cafdbfdd993d59ac2fc296.jpg",
       groupLabel: "Study Group",
       groupName: "UX Strategy Study group",
-      mentorsImage: "/images/Participants Avatars.png",
+      mentorsImage: "/images/Participant Avatars.png",
     },
     {
       image: "/images/5d3e59068f45ff78683819f2fb52145e16778fa8.jpg",
@@ -80,7 +80,7 @@ export const sidebarLinks = [
       groupImage: "/images/b11c58bc810aaca8b4cafdbfdd993d59ac2fc296.jpg",
       groupLabel: "Workshop",
       groupName: "DesignOps Community",
-      mentorsImage: "/images/Participants Avatars.png",
+      mentorsImage: "/images/Participant Avatars.png",
     },
     {
       image: "/images/2ae59a5ace8b4e6cb98ad11acc1b904db4b7857e.jpg",
@@ -91,7 +91,7 @@ export const sidebarLinks = [
       groupImage: "/images/b11c58bc810aaca8b4cafdbfdd993d59ac2fc296.jpg",
       groupLabel: "Workshop",
       groupName: "DesignOps Community",
-      mentorsImage: "/images/Participants Avatars.png",
+      mentorsImage: "/images/Participant Avatars.png",
     },
   ];
 
