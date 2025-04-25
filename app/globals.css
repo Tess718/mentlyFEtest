@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+
+*{
+  font-family: "Chivo", sans-serif;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;     
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;             
+}
+.active{
+  
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+  .ipad-pro-portrait {
+    flex-direction: column;
+  }
+  .ipad-pro-width{
+    width: 400px;
+  }
+}
+
